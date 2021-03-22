@@ -2,7 +2,7 @@
 
 ### Introduction
 
-  Hello! My name is Ian Dudderar and I am a senior CS major at College of Charleston. I recently took 362 with Dr. Bowering last semester (Fall 2020), and that was my only experience using GitHub. I will say that while I still feel very new to the platform and its uses and operations, I feel confident I can take what I learned in the previous course and apply it to this one so that I may continue learning.
+  Hello! My name is Ian Dudderar and I am a senior CS major at College of Charleston. I recently took 362 with Dr. Bowring last semester (Fall 2020), and that was my only experience using GitHub. I will say that while I still feel very new to the platform and its uses and operations, I feel confident I can take what I learned in the previous course and apply it to this one so that I may continue learning.
 
 
 ---
