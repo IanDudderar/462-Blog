@@ -64,6 +64,18 @@
   
   Proper code commenting and documentation are also vital attributes to the open source world. Without it, others will waste a great deal of time and effort trying to understand code that could have been explained in a few sentences of documenting. In order to do this properly, it is not uncommon for certain tools to be necessary, such as an editor in which to write a way to markup and publish, and a method of collaboration between other writers. Rather than view the system as artistic writing, one instead could take a more logical and processed approach. By simply following the steps of the waterfall method a programmer can ensure the comments they are producing are satisfactory. The waterfall method is commonly used among software projects, and its steps include planning, content, writing, localisation, and review. The idea is that the first step should assist you with the second step, the second should assist with the third, and so on.
 
+
+
+---
+
+### Chapter 6
+
+  This chapter really grabbed my attention in the very first paragraph. As someone who has a lot of friends already out working in the real world, whether it be in business, sales, or computing, I have frequently overheard things about databases. And each time, I have had no clue what was being discussed. The chapter mentions that students are often very familiar with programming and data structures, and not so much with database development, which is a central role in real world projects. This could not feel more accurate for me.
+  
+  To me the idea that data will "persist" is such an intriguing aspect. For example, as someone who pays attention to sports, I will oftentimes hear facts or stats mentioned that occurred years and years ago, way before I was even born. I have always wondered "how on earth do they still have access to that information?" In the same way, data we keep now will eventually need to be kept past the medium on which it is stored. For this reason, data in a database is said to have persistence, and needs to be treated as such.
+  
+  I also really enjoyed reading about queries. I took a class involving functional programming and we used queries a lot. Initially the concept of queries was a tricky one to grasp in a programming sense, which is funny because in the real world it is such an easy idea to wrap my head around. Seeing that queries are used frequently in databases and knowing that I have some experience with them already made me feel somewhat prepared and glad that I had taken the course. It also allowed me to see databases in a medium that I am already familiar with
+
 ---
 
 ### Meeting Charleston
